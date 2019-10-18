@@ -1,0 +1,17 @@
+{
+    "name": "devsmine/geoip",
+    "description": "Get location information from IP",
+    "authors": [
+        {
+            "name": "Nazrul Islam",
+            "email": "nzl.nadeem@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devsmine\\Geoip\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
