@@ -40,6 +40,6 @@ Add the following to the main `composer.json`
 Then
 ```sh
 rm -fr vendor/lawepham
-php composer.phar require lawepham/geoip "1.0"
+php composer.phar require devsmine/geoip "1.0"
 ```
 
