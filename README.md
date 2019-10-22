@@ -11,13 +11,13 @@ Add the following to the main `composer.json`
     }
 ],
 "require": [
-    "devsmin/geoip": "dev-master",
+    "devsmine/geoip": "dev-master",
 ]
 
 ```
 Then
 ```sh
-rm -fr vendor/devsmin
+rm -fr vendor/devsmine
 php composer.phar require devsmin/geoip "dev-master"
 ```
 
@@ -33,13 +33,13 @@ Add the following to the main `composer.json`
     }
 ],
 "require": [
-    "devsmin/geoip": "1.0",
+    "devsmine/geoip": "1.0",
 ]
 
 ```
 Then
 ```sh
-rm -fr vendor/lawepham
+rm -fr vendor/devsmine
 php composer.phar require devsmine/geoip "1.0"
 ```
 
